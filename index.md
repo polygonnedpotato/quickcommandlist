@@ -4,8 +4,11 @@ this is an index of all commands. this is how it is formmated
 # file name
 
 what it does
+
 the risk it does to your computer
+
 platform
+
 file location
 
 
